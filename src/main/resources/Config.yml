@@ -1,0 +1,40 @@
+Prefix: '&7&lS&a&lJ &8» '
+Locale:
+  File: '{default}/Locale'
+  Default-locale: 'zh_CN'
+  Use-default-locale: true
+Data:
+  #数据存储支持: YAML, Json, SQLite, MySQL
+  Storage-method: 'Yaml'
+  #玩家信息保存位置 你可以将多个服务器的ShadowJoin玩家信息保存至一个位置
+  Non-DB-storage-file: '{default}/PlayerData'
+  #重载时保存
+  Save-on-reloading: true
+  #数据库
+  MySQL:
+    Username: 'username'
+    Password: 'password'
+    DataBase: 'database'
+    Host: 'localhost'
+    Port: 3306
+    Table: 'shadowjoin_data'
+    UseSSL: false
+
+  SQLite:
+    Table: 'shadowjoin_Data'
+    #SQLite数据库文件保存位置
+    File: '{default}/PlayerData.db'
+  #如果玩家数据无法载入, 将如何处理?
+  #KICK => 踢出玩家
+  #NOTICE => 提醒玩家
+  Action-on-fail: NOTICE
+  #Bungee跨服同步模式
+  #请参照教程安装ShadowMessenger及其扩展!
+  Bungee-mode: false
+Format:
+  File: '{default}/Format'
+  Default: Default
+  First-join:
+    Enable: true
+    Events:
+      - '[bc] &e&l欢迎新玩家{player}进入服务器'

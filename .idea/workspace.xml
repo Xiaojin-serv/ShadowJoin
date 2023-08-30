@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0b3dfda-cf0c-43cb-9e5f-d62d2a927542" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ShadowJoin" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ShadowJoin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ShadowJoin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2RWMS1D3aMHmPoXt4und7HnzTep" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Project/Plugin/SM-ShadowJoin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2529899&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\Plugin\ShadowJoin\src\main\resources" />
+      <recent name="E:\Project\Plugin\ShadowJoin\src\main\java" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="top.shadowpixel.shadowjoin.data.DataHandler.OfflineHandler" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.shadowpixel.shadowjoin.object.hook" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ShadowJoin build" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0b3dfda-cf0c-43cb-9e5f-d62d2a927542" name="Changes" comment="" />
+      <created>1687361379509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687361379509</updated>
+      <workItem from="1687361382733" duration="876000" />
+      <workItem from="1687362264874" duration="954000" />
+      <workItem from="1687397452351" duration="132000" />
+      <workItem from="1687397605627" duration="862000" />
+      <workItem from="1687398889480" duration="4577000" />
+      <workItem from="1687447297758" duration="813000" />
+      <workItem from="1687448306374" duration="552000" />
+      <workItem from="1687448880506" duration="614000" />
+      <workItem from="1687497199165" duration="637000" />
+      <workItem from="1687518498338" duration="11416000" />
+      <workItem from="1687574401875" duration="2789000" />
+      <workItem from="1688131479175" duration="799000" />
+      <workItem from="1688138795256" duration="964000" />
+      <workItem from="1688176698614" duration="3573000" />
+      <workItem from="1688217342857" duration="11000" />
+      <workItem from="1688725604416" duration="1217000" />
+      <workItem from="1689143427754" duration="2654000" />
+      <workItem from="1689166845953" duration="4216000" />
+      <workItem from="1689301138174" duration="24000" />
+      <workItem from="1689340136905" duration="4964000" />
+      <workItem from="1689404274838" duration="2882000" />
+      <workItem from="1689475247630" duration="1262000" />
+      <workItem from="1689489124156" duration="2522000" />
+      <workItem from="1689494481369" duration="1274000" />
+      <workItem from="1689516907501" duration="2414000" />
+      <workItem from="1689521527391" duration="1092000" />
+      <workItem from="1690094286913" duration="1599000" />
+      <workItem from="1690525165598" duration="1248000" />
+      <workItem from="1690544072275" duration="809000" />
+      <workItem from="1690639333087" duration="777000" />
+      <workItem from="1692691008860" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

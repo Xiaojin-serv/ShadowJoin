@@ -1,0 +1,42 @@
+plugins {
+    id 'java'
+}
+
+group = 'top.shadowpixel'
+version = '1.2'
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
+
+dependencies {
+    compileOnly "top.shadowpixel:ShadowCore-spigot:1.2.8"
+    compileOnly "top.shadowpixel.shadowmessenger:ShadowMessenger-spigot:1.0"
+    compileOnly "top.shadowpixel:langswitcher:1.0"
+    compileOnly "org.spigotmc:spigot-api:1.19.4-R0.1-SNAPSHOT"
+    compileOnly "me.clip:placeholderapi:2.11.3"
+    compileOnly "org.jetbrains:annotations:24.0.1"
+
+    //Lombok
+    compileOnly "org.projectlombok:lombok:1.18.26"
+    annotationProcessor "org.projectlombok:lombok:1.18.26"
+}
+
+processResources {
+    def props = [version: version]
+    inputs.properties props
+    filteringCharset 'UTF-8'
+    filesMatching('plugin.yml') {
+        expand props
+    }
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = "UTF-8"
+}

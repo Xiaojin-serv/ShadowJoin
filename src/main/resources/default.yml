@@ -1,0 +1,9 @@
+Format:
+  ==: ShadowJoin-Format
+  Name: "$name"
+  Alias: "$alias"
+  Priority: $priority
+  Join-events:
+    - '[bc] &8[&a+&8] &7{player}'
+  Quit-events:
+    - '[bc] &8[&c-&8] &7{player}'

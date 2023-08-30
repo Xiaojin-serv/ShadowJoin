@@ -1,0 +1,21 @@
+#file: noinspection SpellCheckingInspection
+name: ShadowJoin
+version: '${version}'
+main: top.shadowpixel.shadowjoin.ShadowJoin
+api-version: 1.13
+author: XiaoJin_awa_
+depend: [ShadowCore]
+softdepend: [PlaceholderAPI]
+commands:
+  ShadowJoin:
+    description: The main command of plugin ShadowJoin.
+    aliases: [sj, sjoin]
+permissions:
+  ShadowJoin.Commands.Admin:
+    default: op
+  ShadowJoin.Commands.Reload:
+    default: op
+  ShadowJoin.Commands.SetFormat:
+    default: op
+  ShadowJoin.Commands.List:
+    default: op
